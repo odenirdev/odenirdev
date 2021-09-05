@@ -1,8 +1,7 @@
-### Hi there 👋
+<h3>Hi there 👋</h3>
 
-My name is Odenir Gomes
-
-*Software Engineer*
+<h4>My name is Odenir Gomes</h4>
+<i>Software Engineer</i>
 
 <!--
 **odenirdev/odenirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
