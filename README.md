@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Odenir Gomes
-# * Software Engineer *
+# *Software Engineer*
 
 <!--
 **odenirdev/odenirdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
