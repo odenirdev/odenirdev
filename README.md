@@ -1,7 +1,7 @@
 <h3>Hi there 👋</h3>
 
 <h4>My name is Odenir Gomes</h4>
-<p><i>Software Engineer</i></p>
+<p><i>Software Developer</i></p>
 <br/>
 
 <p>🔭 I’m currently working on Typescript and Javascript librarys</p>
