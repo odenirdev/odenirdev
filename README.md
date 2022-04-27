@@ -6,7 +6,7 @@
 
 <p>🔭 I’m currently working on Typescript and Javascript librarys</p>
 <p>🌱 I’m currently learning more about TDD</p>
-<p>👯 Collaborate at <a target="_blank" href="https://web-opensources-courses.vercel.app/">Opensource Courses</a></p>
+<p>👯 Collaborate at <a target="_blank" href="https://opensourcescourses.com.br/">Opensource Courses</a></p>
 <p>📫 How to reach me: odenirdev@gmail.com</p>
 <br/>
 
