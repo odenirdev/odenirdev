@@ -1,12 +1,12 @@
 <h3>Hi there 👋</h3>
 
 <h4>My name is Odenir Gomes</h4>
-<p><i>Software Developer, Founder & Community Manager at Open-source Courses</i></p>
+<p>I am a Software Developer</p>
 <br/>
 
-<p>🔭 I’m currently working on Typescript and Javascript librarys</p>
+<p>🔭 I’m currently working on Javascript and Typescript librarys</p>
 <p>🌱 I’m currently learning more about Software Engineering</p>
-<p>👯 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource Courses</a></p>
+<p>🛟 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource University</a></p>
 <p>📫 How to reach me: odenirdev@gmail.com</p>
 <br/>
 
