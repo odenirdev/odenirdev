@@ -6,7 +6,7 @@
 
 <p>🔭 I’m currently working on Javascript and Typescript librarys</p>
 <p>🌱 I’m currently learning more about Software Engineering</p>
-<p>🛟 Collaborate at <a target="_blank" href="https://opensourcecourses.com.br/">Opensource University</a></p>
+<p>🛟 Collaborate at <a target="_blank" href="https://github.com/opensource-university">Opensource University</a></p>
 <p>📫 How to reach me: odenirdev@gmail.com</p>
 <br/>
 
