@@ -1,21 +1,21 @@
-*[Leia em Português](README.pt-BR.md)*
+*[Read in English](README.md)*
 
-### Odenir Gomes — Software Development Engineer
+### Odenir Gomes — Engenheiro de Desenvolvimento de Software
 
-São Paulo, Brazil · [odenirdev@gmail.com](mailto:odenirdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/odenirdev/)
+São Paulo, Brasil · [odenirdev@gmail.com](mailto:odenirdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/odenirdev/)
 
-I build software and tooling that raises the quality floor of engineering work. My focus is on TypeScript and Node.js ecosystems, clean architecture, and making AI-assisted development more structured and reliable.
+Desenvolvo software e ferramentas que elevam o padrão de qualidade do trabalho de engenharia. Meu foco está nos ecossistemas TypeScript e Node.js, arquitetura limpa e no desenvolvimento assistido por IA de forma mais estruturada e confiável.
 
 ---
 
-### Projects
+### Projetos
 
-**[specify-sde](https://github.com/odenirdev/specify-sde-claude-plugin)** — A modular Software Development Engineering toolkit for Claude Code.  
-Gives Claude Code a structured engineering system — skills, agents, and domain knowledge — so it can read specs, produce concrete designs, review code rigorously, and keep documentation aligned with reality.  
-Composable by design: use the pieces that are useful, ignore the rest.
+**[specify-sde](https://github.com/odenirdev/specify-sde-claude-plugin)** — Um toolkit modular de Engenharia de Desenvolvimento de Software para o Claude Code.  
+Fornece ao Claude Code um sistema de engenharia estruturado — skills, agentes e conhecimento de domínio — para que ele possa ler specs, produzir designs concretos, revisar código com rigor e manter a documentação alinhada com a realidade.  
+Composável por design: use as partes que forem úteis, ignore o resto.
 
-**[.claude](https://github.com/odenirdev/.claude)** — Personal Claude Code global configuration, versioned for portability.  
-Defines assistant behavior, stack conventions, commit rules, and installed plugins — applied automatically across every project. Clone once, consistent everywhere.
+**[.claude](https://github.com/odenirdev/.claude)** — Configuração global pessoal do Claude Code, versionada para portabilidade.  
+Define o comportamento do assistente, convenções de stack, regras de commit e plugins instalados — aplicados automaticamente em todos os projetos. Clone uma vez, consistente em qualquer lugar.
 
 ---
 
