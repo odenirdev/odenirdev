@@ -6,11 +6,14 @@ I build software and tooling that raises the quality floor of engineering work. 
 
 ---
 
-### Featured Project
+### Projects
 
 **[specify-sde](https://github.com/odenirdev/specify-sde-claude-plugin)** — A modular Software Development Engineering toolkit for Claude Code.  
 Gives Claude Code a structured engineering system — skills, agents, and domain knowledge — so it can read specs, produce concrete designs, review code rigorously, and keep documentation aligned with reality.  
 Composable by design: use the pieces that are useful, ignore the rest.
+
+**[.claude](https://github.com/odenirdev/.claude)** — Personal Claude Code global configuration, versioned for portability.  
+Defines assistant behavior, stack conventions, commit rules, and installed plugins — applied automatically across every project. Clone once, consistent everywhere.
 
 ---
 
