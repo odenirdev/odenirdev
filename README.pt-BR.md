@@ -4,18 +4,13 @@
 
 São Paulo, Brasil · [odenirdev@gmail.com](mailto:odenirdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/odenirdev/)
 
-Desenvolvo software e ferramentas que elevam o padrão de qualidade do trabalho de engenharia. Meu foco está nos ecossistemas TypeScript e Node.js, arquitetura limpa e no desenvolvimento assistido por IA de forma mais estruturada e confiável.
+Desenvolvo software e produtos na OGS Tech — de plataformas SaaS a agentes de IA. Meu foco está em TypeScript e Node.js, arquitetura limpa e em entregar sistemas confiáveis e prontos para produção.
 
 ---
 
-### Projetos
+### Construindo agora
 
-**[specify-sde](https://github.com/odenirdev/specify-sde-claude-plugin)** — Um toolkit modular de Engenharia de Desenvolvimento de Software para o Claude Code.  
-Fornece ao Claude Code um sistema de engenharia estruturado — skills, agentes e conhecimento de domínio — para que ele possa ler specs, produzir designs concretos, revisar código com rigor e manter a documentação alinhada com a realidade.  
-Composável por design: use as partes que forem úteis, ignore o resto.
-
-**[.claude](https://github.com/odenirdev/.claude)** — Configuração global pessoal do Claude Code, versionada para portabilidade.  
-Define o comportamento do assistente, convenções de stack, regras de commit e plugins instalados — aplicados automaticamente em todos os projetos. Clone uma vez, consistente em qualquer lugar.
+**[OGS Tech](https://github.com/ogs-tech)** — minha empresa de software em São Paulo. Tecnologia que leva o seu negócio além: SaaS, agentes de IA e open source.
 
 ---
 

@@ -4,18 +4,13 @@
 
 São Paulo, Brazil · [odenirdev@gmail.com](mailto:odenirdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/odenirdev/)
 
-I build software and tooling that raises the quality floor of engineering work. My focus is on TypeScript and Node.js ecosystems, clean architecture, and making AI-assisted development more structured and reliable.
+I build software and products at OGS Tech — from SaaS platforms to AI agents. My focus is on TypeScript and Node.js, clean architecture, and shipping reliable, production-grade systems.
 
 ---
 
-### Projects
+### Currently building
 
-**[specify-sde](https://github.com/odenirdev/specify-sde-claude-plugin)** — Modular toolkit for Software Development Engineering, supporting both GitHub Copilot and Claude Code.  
-Organizes reusable engineering references, workflow skills, and runtime adapters for structured, high-quality AI-assisted development.  
-See the [detailed docs](https://github.com/odenirdev/specify-sde-claude-plugin/tree/main/.specify/docs) for architecture and usage.
-
-**[.claude](https://github.com/odenirdev/.claude)** — Personal Claude Code global configuration, versioned for portability.  
-Defines assistant behavior, stack conventions, commit rules, and installed plugins — applied automatically across every project. Clone once, consistent everywhere.
+**[OGS Tech](https://github.com/ogs-tech)** — my software company in São Paulo. Technology that takes your business further: SaaS, AI agents & open source.
 
 ---
 
